@@ -1,2 +1,3 @@
 サルでもわかるGitコマンド
 addを追加しました
+comitto tyutoriaru分
