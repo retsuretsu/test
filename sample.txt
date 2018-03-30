@@ -1,3 +1,5 @@
 サルでもわかるGitコマンド
 addを追加しました
 pullするよテスト分
+comitto tyutoriaru分
+
